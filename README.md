@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Caio!
 
-<!--
-**caiobyte/caiobyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente cursando Engenharia de Software,com interesse em desenvolvimento de software e fundamentos de programação.
 
-Here are some ideas to get you started:
+Estudo e pratico:
+- Python
+- JavaScript
+- C
+- ALgoritmos e lógica de programação
+- Git e Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo é buscar uma oportunidade de estágio ou posição júnior para aplicar e desenvolver meus conhecimentos em um ambiente profissional.
+
+Em aprendizado:
+- CS50 – Introdução à Ciência da Computação
+- Estruturas de dados e algoritmos
+
+Contato:
+- LinkedIn: https://www.linkedin.com/in/caiomaiaazevedo/
