@@ -6,7 +6,7 @@ Estudo e pratico:
 - Python
 - JavaScript
 - C
-- ALgoritmos e lógica de programação
+- Algoritmos e lógica de programação
 - Git e Github
 
 Meu objetivo é buscar uma oportunidade de estágio ou posição júnior para aplicar e desenvolver meus conhecimentos em um ambiente profissional.
